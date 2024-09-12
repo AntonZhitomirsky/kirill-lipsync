@@ -1,3 +1,5 @@
 /OpenVoice
 /MeloTTS
 checkpoints_v2-0417.zip
+/.tts_venv
+*.zip*
